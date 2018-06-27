@@ -6,7 +6,10 @@ The appendix notebook contains all the progress work of data explorations.
 
 The project is derived from KDD 2014, for more details please check https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose. The data is also pulled from this webpage. 
 
+
+
 Project Descriptions:
+
 Task: 
 The goal is to predict, at posting time of a project, if a project will not get fully funded so we can intervene and help them improve the project listing.
 
