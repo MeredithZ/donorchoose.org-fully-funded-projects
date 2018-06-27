@@ -8,7 +8,7 @@ The project is derived from KDD 2014, for more details please check https://www.
 
 
 
-Project Descriptions:
+#Project Descriptions:
 
 Task: 
 The goal is to predict, at posting time of a project, if a project will not get fully funded so we can intervene and help them improve the project listing.
@@ -26,7 +26,7 @@ Create temporal validation function in your pipeline that can create training an
 train 2006-2009 test 2010 and so on...
 
 
-Output: 
+#Output: 
 1. Documented Code in a github repository
 
 2. The code should produce a table with results across train test splits over time and performance metrics (baseline, precision and recall at different thresholds 1%, 2%, 5%, 10%, 20%, 30%, 50% and AUC_ROC)
