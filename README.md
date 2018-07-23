@@ -1,6 +1,8 @@
 # donorchoose.org-fully-funded-projects
 
-The main noteboook includes all the codes, results, graphs and interpretations from data explorations, to data processing, to features generations, to temporal validations, and evaluations. 
+The main notebook includes all the codes, results, graphs and interpretations from data explorations, to data processing, to features generations, to temporal validations, and evaluations. 
+
+The data explorations in the main notebook contain all year data files, however, only the projects that get funding request completed in 60 days are considered as fully funded projects. Just in the case of comparison, you can check the other notebook with data explorations that there is no threshold for time duration.
 
 The project is derived from KDD 2014, for more details please check https://www.kaggle.com/c/kdd-cup-2014-predicting-excitement-at-donors-choose. The data is also pulled from this webpage. 
 
